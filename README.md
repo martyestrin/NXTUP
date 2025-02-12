@@ -1,2 +1,2 @@
 # NXTUP
-Connect | Build | Launch
+**Connect | Build | Launch**
